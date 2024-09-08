@@ -1,7 +1,6 @@
-###Drishya Tours and Travels
+Drishya Tours and Travels
 ====================
-
-#We Make Your Travel Memorable With Us
+We Make Your Travel Memorable With Us
 
 # How to use
 
